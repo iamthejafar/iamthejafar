@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Jafar Jalali here.<br><br>- 🔭 I’m working as a Software Engineer (Flutter).<br>- 📚 I'm currently learning Kotlin Jetpack Compose, Java Spring boot.<br>- ⚡ In my free time I like to play chess.</p>
+<p align="left">Jafar Jalali here.<br><br>- 🔭 I’m working as a Software Engineer (Flutter).<br>- ⚡ In my free time I like to play chess.</p>
 
 ###
 
